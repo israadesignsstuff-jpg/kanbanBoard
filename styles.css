@@ -60,8 +60,14 @@ button{
     cursor: pointer;
  
 }
-.add-btn, .delete-btn, .reset-btn{
+
+.add-btn, .delete-btn {
     margin-top: 1rem;
+}
+
+.reset-btn{
+    margin-bottom: 6rem;
+    border-radius: 10px;
 }
 
 
